@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tvtime="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="#000000"
+    android:layout_height="match_parent">
+    <com.example.win7.counttimes.TextViewTimer4
+        android:id="@+id/tvFlashTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tvtime:colon_color="#ffffff"
+        tvtime:custom_background="@drawable/ic_detail_red_wish"
+        tvtime:sep_width="10dp"
+        tvtime:time_background="#FFEC8B"
+        tvtime:time_color="#ffffff"
+        tvtime:radius="5dp"
+        android:layout_marginTop="30dp"
+        tvtime:time_background_type="roundCircle"
+        tvtime:time_size="14sp"
+        android:layout_marginBottom="30dp"
+        tvtime:background_height="30dp"
+        tvtime:background_width="30dp"
+        />
+
+</LinearLayout>

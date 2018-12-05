@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DrawableTextView">
+        <attr name="leftDrawable" format="reference|color"/>
+        <attr name="rightDrawable" format="reference|color"/>
+        <attr name="topDrawable" format="reference|color"/>
+        <attr name="bottomDrawable" format="reference|color"/>
+
+        <attr name="leftDrawableWidth" format="reference|dimension"/>
+        <attr name="rightDrawableWidth" format="reference|dimension"/>
+        <attr name="topDrawableWidth" format="reference|dimension"/>
+        <attr name="bottomDrawableWidth" format="reference|dimension"/>
+
+        <attr name="leftDrawableHeight" format="reference|dimension"/>
+        <attr name="rightDrawableHeight" format="reference|dimension"/>
+        <attr name="topDrawableHeight" format="reference|dimension"/>
+        <attr name="bottomDrawableHeight" format="reference|dimension"/>
+    </declare-styleable>
+    <declare-styleable name="MyView">
+        <attr name="text" format="string"/>
+        <attr name="textattr" format="integer"/>
+        <attr name="titleText" />
+        <attr name="titleTextColor" />
+        <attr name="titleTextSize" />
+    </declare-styleable>
+    <attr name="titleText" format="string" />
+    <attr name="titleTextColor" format="color" />
+    <attr name="titleTextSize" format="dimension" />
+
+    <!--倒计时控件属性-->
+    <!--    <declare-styleable name="TextViewTime">
+            <attr name="time_background" format="color" />
+            &lt;!&ndash;冒号色值&ndash;&gt;
+            <attr name="colon_color" format="color" />
+            <attr name="time_size" format="dimension" />
+            <attr name="time_color" format="color" />
+            &lt;!&ndash;倒计时背景长度&ndash;&gt;
+            <attr name="background_width" format="dimension" />
+            &lt;!&ndash;倒计时背景宽度&ndash;&gt;
+            <attr name="background_height" format="dimension" />
+            &lt;!&ndash; 圆角 &ndash;&gt;
+            <attr name="radius" format="dimension" />
+            <attr name="forbidDrawDay" format="boolean" />
+            &lt;!&ndash;符号或者空隙宽度&ndash;&gt;
+            <attr name="sep_width" format="dimension" />
+            &lt;!&ndash;倒计时背景类型&ndash;&gt;
+            <attr name="time_background_type" format="enum">
+                &lt;!&ndash;圆&ndash;&gt;
+                <enum name="circle" value="10" />
+                &lt;!&ndash;圆角矩形&ndash;&gt;
+                <enum name="roundCircle" value="11" />
+            </attr>
+            &lt;!&ndash;是否计算天数,true:是&ndash;&gt;
+            <attr name="calculate_day" format="boolean" />
+        </declare-styleable>-->
+    <!--倒计时控件属性-->
+    <declare-styleable name="TextViewTimer4">
+        <attr name="time_background" format="color" />
+        <!--冒号色值-->
+        <attr name="colon_color" format="color" />
+        <attr name="time_size" format="dimension" />
+        <attr name="time_color" format="color" />
+        <!--倒计时背景长度-->
+        <attr name="background_width" format="dimension" />
+        <!--倒计时背景宽度-->
+        <attr name="background_height" format="dimension" />
+        <!-- 圆角 -->
+        <attr name="radius" format="dimension" />
+        <attr name="forbidDrawDay" format="boolean" />
+        <!--符号或者空隙宽度-->
+        <attr name="sep_width" format="dimension" />
+        <!--倒计时背景类型-->
+        <attr name="time_background_type" format="enum">
+            <!--圆-->
+            <enum name="circle" value="10" />
+            <!--圆角矩形-->
+            <enum name="roundCircle" value="11" />
+            <!--圆角矩形-->
+            <enum name="custom" value="12" />
+        </attr>
+        <!--是否计算天数,true:是-->
+        <attr name="calculate_day" format="boolean" />
+        <attr name="custom_background" format="reference|integer" />
+    </declare-styleable>
+
+</resources>

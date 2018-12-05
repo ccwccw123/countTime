@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support.test:monitor-1.0.2">
+    <CLASSES>
+      <root url="file://E:/ccwProjuct/grade/caches/transforms-1/files-1.1/monitor-1.0.2.aar/9ed8ede606180c7c49474ec0af734805/res" />
+      <root url="jar://E:/ccwProjuct/grade/caches/transforms-1/files-1.1/monitor-1.0.2.aar/9ed8ede606180c7c49474ec0af734805/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/ccwProjuct/grade/caches/modules-2/files-2.1/com.android.support.test/monitor/1.0.2/5764301056100b445e9ba31df7d1b554a55450f6/monitor-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

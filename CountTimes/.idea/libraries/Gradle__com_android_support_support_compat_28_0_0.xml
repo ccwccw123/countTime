@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-compat-28.0.0">
+    <ANNOTATIONS>
+      <root url="jar://E:/ccwProjuct/grade/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/012c135eeee9ca22d74379c87485656b/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://E:/ccwProjuct/grade/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/012c135eeee9ca22d74379c87485656b/jars/classes.jar!/" />
+      <root url="file://E:/ccwProjuct/grade/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/012c135eeee9ca22d74379c87485656b/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

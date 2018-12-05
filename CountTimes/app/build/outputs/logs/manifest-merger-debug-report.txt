@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\9129be1872d7b7cea209cb1b337c7ba9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f2ab51cda2c8e40521458d3eb0f030c8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a12acd1f7b1cdd495aa9a0fce91e0c10\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ddd532564390cf5f890cddf19a7f0d6a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\06ba9d37d44219e52ae80d18c1b87e8a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\28ece10d709d4bf8f5e905b70335b8f1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\0f19a4145cb3ac882dcc3b6c6ea58db0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\loader-28.0.0.aar\57bc2424b40f64297973960186696908\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\ef4fbd83c8f6bd06397047e10c62e312\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\7e905524bdbd7c543d4a8b7fa090b376\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\214efe60b059aff6d1f9d2253c003df9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\12f376b9d7c093a7af4acb934bfe3d6c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\customview-28.0.0.aar\8facead32ab778e988096f27177fd01c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\86f763b2e32d5322d91d7fb96dcac0b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\fa6a49b989615997ede0077b35953fc1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\012c135eeee9ca22d74379c87485656b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b3ee88d3a3fbb3a53b67bb83f114f616\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b3647a99cd15eb07120ba16837749d80\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\runtime-1.1.1.aar\06c005e1e2fef1e6a3b9e89ade1fa91d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ed003433937ec071390da383a5a65602\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\9a9cf4995b1b05751f2fba96e997b8f3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\print-28.0.0.aar\177639a1a1a1a4e50a76a7cb1363e87f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\7559a61542e57a73bec729265ce57108\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\livedata-1.1.1.aar\3c0f975bce139ef5b3cfada3323e5786\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d74e42ab6bbdcdb0af23d9c1a844a54d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3fb08fb2b2dbb20ea46bc6d4209bef09\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\7380b461d45e6467211c1271504fc96a\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml
+		ADDED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml
+		ADDED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f2ab51cda2c8e40521458d3eb0f030c8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f2ab51cda2c8e40521458d3eb0f030c8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\012c135eeee9ca22d74379c87485656b\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\012c135eeee9ca22d74379c87485656b\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b3ee88d3a3fbb3a53b67bb83f114f616\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b3ee88d3a3fbb3a53b67bb83f114f616\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\012c135eeee9ca22d74379c87485656b\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml:9:9-48
+	android:icon
+		ADDED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.win7.counttimes.TimeActivity
+ADDED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml
+INJECTED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\9129be1872d7b7cea209cb1b337c7ba9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\9129be1872d7b7cea209cb1b337c7ba9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f2ab51cda2c8e40521458d3eb0f030c8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f2ab51cda2c8e40521458d3eb0f030c8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a12acd1f7b1cdd495aa9a0fce91e0c10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a12acd1f7b1cdd495aa9a0fce91e0c10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ddd532564390cf5f890cddf19a7f0d6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ddd532564390cf5f890cddf19a7f0d6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\06ba9d37d44219e52ae80d18c1b87e8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\06ba9d37d44219e52ae80d18c1b87e8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\28ece10d709d4bf8f5e905b70335b8f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\28ece10d709d4bf8f5e905b70335b8f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\0f19a4145cb3ac882dcc3b6c6ea58db0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\0f19a4145cb3ac882dcc3b6c6ea58db0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\loader-28.0.0.aar\57bc2424b40f64297973960186696908\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\loader-28.0.0.aar\57bc2424b40f64297973960186696908\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\ef4fbd83c8f6bd06397047e10c62e312\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\ef4fbd83c8f6bd06397047e10c62e312\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\7e905524bdbd7c543d4a8b7fa090b376\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\7e905524bdbd7c543d4a8b7fa090b376\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\214efe60b059aff6d1f9d2253c003df9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\214efe60b059aff6d1f9d2253c003df9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\12f376b9d7c093a7af4acb934bfe3d6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\12f376b9d7c093a7af4acb934bfe3d6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\customview-28.0.0.aar\8facead32ab778e988096f27177fd01c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\customview-28.0.0.aar\8facead32ab778e988096f27177fd01c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\86f763b2e32d5322d91d7fb96dcac0b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\86f763b2e32d5322d91d7fb96dcac0b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\fa6a49b989615997ede0077b35953fc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\fa6a49b989615997ede0077b35953fc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\012c135eeee9ca22d74379c87485656b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\012c135eeee9ca22d74379c87485656b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b3ee88d3a3fbb3a53b67bb83f114f616\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b3ee88d3a3fbb3a53b67bb83f114f616\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b3647a99cd15eb07120ba16837749d80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b3647a99cd15eb07120ba16837749d80\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\runtime-1.1.1.aar\06c005e1e2fef1e6a3b9e89ade1fa91d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\runtime-1.1.1.aar\06c005e1e2fef1e6a3b9e89ade1fa91d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ed003433937ec071390da383a5a65602\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ed003433937ec071390da383a5a65602\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\9a9cf4995b1b05751f2fba96e997b8f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\9a9cf4995b1b05751f2fba96e997b8f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\print-28.0.0.aar\177639a1a1a1a4e50a76a7cb1363e87f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\print-28.0.0.aar\177639a1a1a1a4e50a76a7cb1363e87f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\7559a61542e57a73bec729265ce57108\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\7559a61542e57a73bec729265ce57108\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\livedata-1.1.1.aar\3c0f975bce139ef5b3cfada3323e5786\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\livedata-1.1.1.aar\3c0f975bce139ef5b3cfada3323e5786\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d74e42ab6bbdcdb0af23d9c1a844a54d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d74e42ab6bbdcdb0af23d9c1a844a54d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3fb08fb2b2dbb20ea46bc6d4209bef09\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3fb08fb2b2dbb20ea46bc6d4209bef09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\7380b461d45e6467211c1271504fc96a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] E:\ccwProjuct\grade\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\7380b461d45e6467211c1271504fc96a\AndroidManifest.xml:20:5-44
+INJECTED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml
+INJECTED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml
+		ADDED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml
+		ADDED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ccw\CountTimes\app\src\main\AndroidManifest.xml
